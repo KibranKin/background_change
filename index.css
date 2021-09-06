@@ -3,8 +3,9 @@
 }
 
 .container{
+    text-align:center;
     margin-top:250px;
-    margin-left: 600px;
+    
 }
 button{
     background-color:black;
