@@ -1,0 +1,15 @@
+.body{
+    background-color: black;
+}
+
+.container{
+    margin-top:250px;
+    margin-left: 600px;
+}
+button{
+    background-color:black;
+    border:2px solid white;
+    color:white;
+    padding:5px;
+    border-radius:3px;
+}
